@@ -1,0 +1,4 @@
+[debug] [spark_streaming-test] Classpath dependencies List()
+[debug] [spark_streaming-test] Dependencies from configurations List(spark_streaming)
+[debug] Bloop wrote the configuration of project 'spark_streaming-test' to '/home/mouhammad/_Personnal/_Projects/kafka-spark-streaming-docker-v2/spark_streaming/.bloop/spark_streaming-test.json'
+[success] Generated .bloop/spark_streaming-test.json

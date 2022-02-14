@@ -1,0 +1,34 @@
+2022.02.13 20:48:43 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/mouhammad/_Personnal/_Projects/kafka-spark-streaming-docker-v2/spark_streaming/.metals/lsp.trace.json or /home/mouhammad/.cache/metals/lsp.trace.json
+2022.02.13 20:48:43 INFO  logging to file /home/mouhammad/_Personnal/_Projects/kafka-spark-streaming-docker-v2/spark_streaming/.metals/metals.log
+2022.02.13 20:48:43 INFO  Started: Metals version 0.11.1 in workspace '/home/mouhammad/_Personnal/_Projects/kafka-spark-streaming-docker-v2/spark_streaming' for client Visual Studio Code 1.61.2.
+2022.02.13 20:48:43 INFO  Parse release: 11.0.13
+2022.02.13 20:48:46 INFO  time: initialize in 2.5s
+2022.02.13 20:48:50 INFO  Attempting to connect to the build server...
+2022.02.13 20:48:54 INFO  no build target found for /home/mouhammad/_Personnal/_Projects/kafka-spark-streaming-docker-v2/spark_streaming/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.1.0
+2022.02.13 20:48:54 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/mouhammad/_Personnal/_Projects/kafka-spark-streaming-docker-v2/spark_streaming/.metals/bsp.trace.json or /home/mouhammad/.cache/metals/bsp.trace.json
+2022.02.13 20:48:54 INFO  Attempting to connect to the build server...
+2022.02.13 20:48:54 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/mouhammad/_Personnal/_Projects/kafka-spark-streaming-docker-v2/spark_streaming/project/.metals/bsp.trace.json or /home/mouhammad/.cache/metals/bsp.trace.json
+2022.02.13 20:48:54 INFO  time: Connected to build server in 5.14s
+2022.02.13 20:48:54 INFO  Connected to Build server: Bloop v1.4.12
+2022.02.13 20:48:55 INFO  time: Imported build in 0.27s
+2022.02.13 20:48:56 INFO  time: code lens generation in 6.06s
+2022.02.13 20:48:58 WARN  Could not find java sources in None. Java symbols will not be available.
+2022.02.13 20:49:01 INFO  time: indexed workspace in 6.46s
+Feb 13, 2022 10:13:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.02.14 10:22:55 INFO  shutting down Metals
+2022.02.14 10:22:55 INFO  Shut down connection with build server.
+2022.02.14 10:22:55 INFO  Shut down connection with build server.
+2022.02.14 10:22:55 ERROR Unexpected error initializing server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+

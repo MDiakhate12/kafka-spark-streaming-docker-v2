@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/mouhammad/_Personnal/_Projects/kafka-spark-streaming-docker-v2/spark_streaming/target/scala-2.12/structured-streaming-v2_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	diaf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mouhammad/_Personnal/_Projects/kafka-spark-streaming-docker-v2/spark_streaming/target/scala-2.12/classes/diaf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	diaf/bro[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mouhammad/_Personnal/_Projects/kafka-spark-streaming-docker-v2/spark_streaming/target/scala-2.12/classes/diaf/bro[0m
+[0m[[0m[0mdebug[0m] [0m[0m	diaf/bro/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mouhammad/_Personnal/_Projects/kafka-spark-streaming-docker-v2/spark_streaming/target/scala-2.12/classes/diaf/bro/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	diaf/bro/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mouhammad/_Personnal/_Projects/kafka-spark-streaming-docker-v2/spark_streaming/target/scala-2.12/classes/diaf/bro/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
