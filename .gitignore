@@ -1,0 +1,8 @@
+spark-streaming/project/
+spark-streaming/target/
+spark-streaming/.vscode/
+spark-streaming/.metals/
+spark-streaming/.bloopinstall/
+spark-streaming/*.pem
+nodejs-producer/node_modules/
+nodejs-producer/package-lock.json
