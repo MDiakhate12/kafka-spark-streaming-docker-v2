@@ -6,3 +6,4 @@ spark-streaming/.bloopinstall/
 spark-streaming/*.pem
 nodejs-producer/node_modules/
 nodejs-producer/package-lock.json
+spark-streaming/.bloop/

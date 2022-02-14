@@ -1,4 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0m[spark_streaming-build] Classpath dependencies List()[0m
-[0m[[0m[0mdebug[0m] [0m[0m[spark_streaming-build] Dependencies from configurations List()[0m
-[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'spark_streaming-build' to '/home/mouhammad/_Personnal/_Projects/kafka-spark-streaming-docker-v2/spark_streaming/project/.bloop/spark_streaming-build.json'[0m
-[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop/spark_streaming-build.json[0m
